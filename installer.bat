@@ -8,8 +8,8 @@ REM
 REM This script is intended for use on Windows systems.
 REM report any issues or bugs on the GitHub repository.
 REM
-REM GitHub: https://github.com/SillyTavern/SillyTavern-Launcher
-REM Issues: https://github.com/SillyTavern/SillyTavern-Launcher/issues
+REM GitHub: https://github.com/halfaipg/SillyTavern-Launcher
+REM Issues: https://github.com/halfaipg/SillyTavern-Launcher/issues
 title STL Installer [STARTUP CHECK]
 setlocal
 
@@ -320,7 +320,7 @@ set retry_count=0
 
 :retry_install_sillytavern
 echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% Cloning SillyTavern repository...
-git clone https://github.com/SillyTavern/SillyTavern.git
+git clone https://github.com/halfaipg/SillyTavern.git
 
 if %errorlevel% neq 0 (
     set /A retry_count+=1
@@ -466,7 +466,7 @@ set retry_count=0
 :retry_extras_pre
 REM Clone the SillyTavern Extras repository
 echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% Cloning SillyTavern-extras repository...
-git clone https://github.com/SillyTavern/SillyTavern-extras.git
+git clone https://github.com/halfaipg/SillyTavern-extras.git
 
 if %errorlevel% neq 0 (
     set /A retry_count+=1
@@ -793,7 +793,7 @@ set retry_count=0
 
 :retry_st_extras_pre
 echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% Cloning SillyTavern repository...
-git clone https://github.com/SillyTavern/SillyTavern.git
+git clone https://github.com/halfaipg/SillyTavern.git
 
 if %errorlevel% neq 0 (
     set /A retry_count+=1
@@ -809,7 +809,7 @@ echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% %green_fg_strong%Sil
 REM Clone the SillyTavern Extras repository
 echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% Installing Extras...
 echo %blue_bg%[%time%]%reset% %blue_fg_strong%[INFO]%reset% Cloning SillyTavern-extras repository...
-git clone https://github.com/SillyTavern/SillyTavern-extras.git
+git clone https://github.com/halfaipg/SillyTavern-extras.git
 
 REM Install script for XTTS 
     REM Check if the folder exists
@@ -1039,7 +1039,7 @@ if "%support_choice%"=="1" (
 )
 
 :issue_report
-start "" "https://github.com/SillyTavern/SillyTavern-Launcher/issues/new/choose"
+start "" "https://github.com/halfaipg/SillyTavern-Launcher/issues/new/choose"
 goto :support
 
 :documentation

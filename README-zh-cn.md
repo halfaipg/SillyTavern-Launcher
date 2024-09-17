@@ -9,10 +9,10 @@
 <p align="center">
     【<a href="README-zh-cn.md">English</a> | 中文 | <a href="README-ja-jp.md">Japanese</a> | <a href="README-ko-kr.md">Korean</a> | <a href="README-nl-nl.md">Dutch</a> | <a href="README-fr-fr.md">French</a> | <a href="README-vi-vn.md">Vietnamese</a> | <a href="README-pt-pt.md">Portuguese</a> | <a href="README-es-es.md">Spanish</a>】
   
-[![GitHub Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/network)
-[![GitHub Issues](https://img.shields.io/github/issues/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/network)
+[![GitHub Issues](https://img.shields.io/github/issues/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/pulls)
 </div>
 
 🔧 # 安装
@@ -24,7 +24,7 @@ cmd /c winget install -e --id Git.Git
 ```
 2. 在键盘上：按“WINDOWS + E”** 打开文件资源管理器，然后导航到要安装启动器的文件夹。进入所需文件夹后，在地址栏中键入“cmd”，然后按回车键。然后，运行以下命令：
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
 ```
 
 推销下我自己的分支，建设中[纯中文界面汉化版](https://github.com/vircus/SillyTavern-Launcher-zh/)
@@ -33,7 +33,7 @@ git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTav
 1. 打开你喜欢的终端并安装 git
 2. Git 克隆 Sillytavern-Launcher：
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 3. 以以下方式开始 installer.sh：
 ```shell
@@ -56,7 +56,7 @@ brew install git
 ```
 3. Git 克隆 Sillytavern-Launcher：
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 4. 以以下方式开始 installer.sh：
 ```shell
@@ -104,8 +104,8 @@ chmod +x launcher.sh && ./launcher.sh
 |:---------------------------------------- |:------------------------------------------------------------------------------------------------------- |
 
 # Screenshots
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern-Launcher/assets/61471128/96775287-df23-4976-980f-a0ce4dead9a5">
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern-Launcher/assets/61471128/b080c199-4b26-4246-931e-92cc0c4b47eb">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern-Launcher/assets/61471128/96775287-df23-4976-980f-a0ce4dead9a5">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern-Launcher/assets/61471128/b080c199-4b26-4246-931e-92cc0c4b47eb">
 
 <div align="right">
 

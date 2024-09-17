@@ -8,8 +8,8 @@ REM
 REM This script is intended for use on Windows systems.
 REM report any issues or bugs on the GitHub repository.
 REM
-REM GitHub: https://github.com/SillyTavern/SillyTavern-Launcher
-REM Issues: https://github.com/SillyTavern/SillyTavern-Launcher/issues
+REM GitHub: https://github.com/halfaipg/SillyTavern-Launcher
+REM Issues: https://github.com/halfaipg/SillyTavern-Launcher/issues
 title STL [STARTUP CHECK]
 setlocal
 
@@ -4431,7 +4431,7 @@ if "%troubleshooting_choice%"=="1" (
 )
 
 :issue_report
-start "" "https://github.com/SillyTavern/SillyTavern-Launcher/issues/new/choose"
+start "" "https://github.com/halfaipg/SillyTavern-Launcher/issues/new/choose"
 goto :troubleshooting
 
 :documentation

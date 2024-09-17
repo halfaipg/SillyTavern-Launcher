@@ -9,10 +9,10 @@
 <p align="center">
     【English | <a href="README-zh-cn.md">Chinese</a> | <a href="README-ja-jp.md">Japanese</a> | <a href="README-ko-kr.md">Korean</a> | <a href="README-nl-nl.md">Dutch</a> | <a href="README-fr-fr.md">French</a> | <a href="README-vi-vn.md">Vietnamese</a> | <a href="README-pt-pt.md">Portuguese</a> | <a href="README-es-es.md">Spanish</a>】
   
-[![GitHub Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/network)
-[![GitHub Issues](https://img.shields.io/github/issues/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/SillyTavern/SillyTavern-Launcher/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/network)
+[![GitHub Issues](https://img.shields.io/github/issues/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SillyTavern/SillyTavern-Launcher.svg)](https://github.com/halfaipg/SillyTavern-Launcher/pulls)
 </div>
 
 # 🔧 Installation
@@ -23,14 +23,14 @@ cmd /c winget install -e --id Git.Git
 ```
 2. On your keyboard: press **`WINDOWS + E`** to open File Explorer, then navigate to the folder where you want to install the launcher. Once in the desired folder, type `cmd` into the address bar and press enter. Then, run the following command:
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher && start installer.bat
 ```
 
 ## 🐧 Linux
 1. Open your favorite terminal and install git
 2. Git clone the Sillytavern-Launcher with: 
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 3. Start the installer.sh with: 
 ```shell
@@ -52,7 +52,7 @@ brew install git
 ```
 3. Git clone the Sillytavern-Launcher with: 
 ```shell
-git clone https://github.com/SillyTavern/SillyTavern-Launcher.git && cd SillyTavern-Launcher
+git clone https://github.com/halfaipg/SillyTavern-Launcher.git && cd SillyTavern-Launcher
 ```
 4. Start the installer.sh with: 
 ```shell
@@ -99,8 +99,8 @@ chmod +x launcher.sh && ./launcher.sh
 | :---------------------------------------- | :------------------------------------------------------------------------------------------------------- |
 
 # Screenshots
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern-Launcher/assets/61471128/96775287-df23-4976-980f-a0ce4dead9a5">
-<img width="400" alt="image" src="https://github.com/SillyTavern/SillyTavern-Launcher/assets/61471128/b080c199-4b26-4246-931e-92cc0c4b47eb">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern-Launcher/assets/61471128/96775287-df23-4976-980f-a0ce4dead9a5">
+<img width="400" alt="image" src="https://github.com/halfaipg/SillyTavern-Launcher/assets/61471128/b080c199-4b26-4246-931e-92cc0c4b47eb">
 
 <div align="right">
 

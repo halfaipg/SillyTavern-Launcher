@@ -15,10 +15,10 @@
 # This script is intended for use on Linux systems. Please
 # report any issues or bugs on the GitHub repository.
 #
-# App Github: https://github.com/SillyTavern/SillyTavern.git
+# App Github: https://github.com/halfaipg/SillyTavern.git
 #
-# GitHub: https://github.com/SillyTavern/SillyTavern-Launcher
-# Issues: https://github.com/SillyTavern/SillyTavern-Launcher/issues
+# GitHub: https://github.com/halfaipg/SillyTavern-Launcher
+# Issues: https://github.com/halfaipg/SillyTavern-Launcher/issues
 # ----------------------------------------------------------
 # Note: Modify the script as needed to fit your requirements.
 # ----------------------------------------------------------
@@ -1291,9 +1291,9 @@ issue_report() {
         log_message "ERROR" "${red_fg_strong}Cannot run xdg-open as root. Please run the script without root permission.${reset}"
     else
         if [ "$(uname -s)" == "Darwin" ]; then
-            open https://github.com/SillyTavern/SillyTavern-Launcher/issues/new/choose
+            open https://github.com/halfaipg/SillyTavern-Launcher/issues/new/choose
         else
-            xdg-open https://github.com/SillyTavern/SillyTavern-Launcher/issues/new/choose
+            xdg-open https://github.com/halfaipg/SillyTavern-Launcher/issues/new/choose
         fi
     fi
     read -p "Press Enter to continue..."
